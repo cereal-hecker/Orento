@@ -4,7 +4,7 @@
 The existing vehicle rental market lacks a comprehensive platform that allows individuals to rent out their personal cars, scooters, or bikes for a specific duration. Users seeking to rent vehicles struggle to find reliable and trustworthy options, while vehicle owners do not have an efficient means to monetize their assets. Additionally, concerns regarding insurance coverage for both parties during the rental period remain unresolved. Therefore, there is a need for a mobile application that addresses these challenges and provides a seamless peer-to-peer vehicle rental experience.
 
 ## How Orento solves it?
-Orento is a mobile application that serves as a robust peer-to-peer vehicle rental platform, addressing the aforementioned problems. The app offers the following features and solutions:
+Orento is a mobile application that serves as a robust peer-to-peer vehicle rental platform, addressing the aforementioned problems. It aims to provide a comprehensive solution for individuals who wish to rent out their vehicles and those in need of reliable and convenient transportation options. By offering trust-building features, insurance coverage, and streamlined processes, Orento revolutionizes the peer-to-peer vehicle rental market.
 
 ## Features
 - User Registration and Profile Verification: Orento requires users to register and undergo a verification process to establish trust. Profile verification can include identity checks, driving license validation, and user ratings from previous transactions.
